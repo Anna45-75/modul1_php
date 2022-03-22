@@ -1,0 +1,15 @@
+table {
+    width: 600px;
+    border: 1px solid gray;
+    margin: auto;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+td.l1 {
+    background-color: #dbdbdb;
+}
